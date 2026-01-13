@@ -13,3 +13,5 @@ This program generates random and secured password for the user based on their d
 
 # Weather App
 This program allows user to enter the city name and get the live temperature , humidity level and weather conditions of their city using the weather API
+
+![img alt](https://github.com/SoorajPrasad19/OIBSIP/blob/0c53a782d567bee080a08ae1140f719445e5dc31/Weather.png)
