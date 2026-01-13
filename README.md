@@ -4,6 +4,8 @@ This repository contains the Python Programming projects completed during my int
 # BMI Calculator 
 This program takes height and weight as input from user and calculates the Body Mass Index and gives corresponding category such as underweight,normal,obverweight and obese(1,2,3)
 
+![img alt](https://github.com/SoorajPrasad19/OIBSIP/blob/e6cd84f0640e94455130cff1f725db6b508748c8/BMI.png)
+
 # Password Generator 
 This program generates random and secured password for the user based on their desired length of the password.It includes letters,numbers and special characters
 
